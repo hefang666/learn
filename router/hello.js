@@ -9,3 +9,5 @@
 })(window)
 
 ax()
+
+let a = 1;
