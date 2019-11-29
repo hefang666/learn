@@ -14,3 +14,4 @@ let a = 1;
 
 var cc = 1;
 console.log(a)
+console.log(cc)
